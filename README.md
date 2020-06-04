@@ -1,15 +1,5 @@
 <a href="https://github.com/quintuslabs/GroceryStore"><img src="screen/logo.png" height="150px" width="150px" title="Grocery" alt="Grocery Store"></a>
 
-* [GroceryStore](https://github.com/quintuslabs/GroceryStore-with-server/blob/master/GroceryStore2.0.apk) - Download APK
-
-* [GroceryStore](https://megagrocerystore.000webhostapp.com/) - Grocery Store Website
-
-* [GroceryStoreAdmin](https://megagrocerystore.000webhostapp.com/admin/) - Grocery Store Admin
-
-- username/password:- Please Contact us for admin panel :- contact@quintuslabs.com
-
-
-
 
 # GroceryStore
 Grocery App, is online shopping cart, geniune mobile application to which you can rely on. It guides you to formulate incredible mobile application. It comprise of 10+ screens with different features to navigate screens easily.
@@ -51,35 +41,7 @@ The screen contains more than 60 icons and most of all required elements require
 -View Orders (Confirmed, Preparing, On Way, Dilivered)
 -Manage Customers
 -App Token Authentication
--For Api integration Please Contact us:- contact@quintuslabs.com
+-For Api integration Please Contact us:- ksevkani495@gmail.com
 
 ### AdminPanel access
-
--uplod server file in your server or in xampp/wampp
-- import database
-- http://yourdomain/admin
-- username:-admin
-- password:- admin
-
-## Screen 
-
-<img src="screen/screen1.png">
-
-<img src="screen/screen2.png">
-
-<img src="screen/screen3.png">
-
-<img src="screen/screen4.png">
-
-<img src="screen/screen5.png">
-
-<img src="screen/screen6.png">
-
-<img src="screen/1.png">
-
-<img src="screen/2.png">
-
-<img src="screen/3.png">
-
-<img src="screen/4.png">
-
+Contact:- <a href="https://kunalmnnit.github.io"> Kunal Sevkani </a>
