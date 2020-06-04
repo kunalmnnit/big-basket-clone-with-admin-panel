@@ -1,0 +1,325 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.quintus.labs.grocerystore"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="19"
+8-->C:\Users\Kunal\Desktop\GroceryStore-with-server\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="29" />
+9-->C:\Users\Kunal\Desktop\GroceryStore-with-server\app\src\main\AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.INTERNET" />
+11-->C:\Users\Kunal\Desktop\GroceryStore-with-server\app\src\main\AndroidManifest.xml:5:5-67
+11-->C:\Users\Kunal\Desktop\GroceryStore-with-server\app\src\main\AndroidManifest.xml:5:22-64
+12    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+12-->C:\Users\Kunal\Desktop\GroceryStore-with-server\app\src\main\AndroidManifest.xml:6:5-80
+12-->C:\Users\Kunal\Desktop\GroceryStore-with-server\app\src\main\AndroidManifest.xml:6:22-77
+13    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+13-->C:\Users\Kunal\Desktop\GroceryStore-with-server\app\src\main\AndroidManifest.xml:7:5-81
+13-->C:\Users\Kunal\Desktop\GroceryStore-with-server\app\src\main\AndroidManifest.xml:7:22-78
+14    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+14-->C:\Users\Kunal\Desktop\GroceryStore-with-server\app\src\main\AndroidManifest.xml:8:5-79
+14-->C:\Users\Kunal\Desktop\GroceryStore-with-server\app\src\main\AndroidManifest.xml:8:22-76
+15    <uses-permission android:name="android.permission.CHANGE_NETWORK_STATE" />
+15-->C:\Users\Kunal\Desktop\GroceryStore-with-server\app\src\main\AndroidManifest.xml:9:5-79
+15-->C:\Users\Kunal\Desktop\GroceryStore-with-server\app\src\main\AndroidManifest.xml:9:22-76
+16    <uses-permission android:name="android.permission.VIBRATE" />
+16-->C:\Users\Kunal\Desktop\GroceryStore-with-server\app\src\main\AndroidManifest.xml:10:5-66
+16-->C:\Users\Kunal\Desktop\GroceryStore-with-server\app\src\main\AndroidManifest.xml:10:22-63
+17    <uses-permission android:name="android.permission.WAKE_LOCK" /> <!-- Required by older versions of Google Play services to create IID tokens -->
+17-->[com.google.android.gms:play-services-measurement-api:17.3.0] C:\Users\Kunal\.gradle\caches\transforms-2\files-2.1\d734e85b2ea2f6b5c3dd2e12b4244ac5\jetified-play-services-measurement-api-17.3.0\AndroidManifest.xml:24:5-68
+17-->[com.google.android.gms:play-services-measurement-api:17.3.0] C:\Users\Kunal\.gradle\caches\transforms-2\files-2.1\d734e85b2ea2f6b5c3dd2e12b4244ac5\jetified-play-services-measurement-api-17.3.0\AndroidManifest.xml:24:22-65
+18    <uses-permission android:name="com.google.android.c2dm.permission.RECEIVE" />
+18-->[com.google.firebase:firebase-iid:20.1.5] C:\Users\Kunal\.gradle\caches\transforms-2\files-2.1\8183980bc8e77d4fe843a9e6d0f0d6a0\jetified-firebase-iid-20.1.5\AndroidManifest.xml:26:5-82
+18-->[com.google.firebase:firebase-iid:20.1.5] C:\Users\Kunal\.gradle\caches\transforms-2\files-2.1\8183980bc8e77d4fe843a9e6d0f0d6a0\jetified-firebase-iid-20.1.5\AndroidManifest.xml:26:22-79
+19    <uses-permission android:name="com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE" />
+19-->[com.google.android.gms:play-services-measurement:17.3.0] C:\Users\Kunal\.gradle\caches\transforms-2\files-2.1\c286a662b2c14e12c87c511e7fbec4aa\jetified-play-services-measurement-17.3.0\AndroidManifest.xml:26:5-110
+19-->[com.google.android.gms:play-services-measurement:17.3.0] C:\Users\Kunal\.gradle\caches\transforms-2\files-2.1\c286a662b2c14e12c87c511e7fbec4aa\jetified-play-services-measurement-17.3.0\AndroidManifest.xml:26:22-107
+20
+21    <application
+21-->C:\Users\Kunal\Desktop\GroceryStore-with-server\app\src\main\AndroidManifest.xml:12:5-60:19
+22        android:allowBackup="true"
+22-->C:\Users\Kunal\Desktop\GroceryStore-with-server\app\src\main\AndroidManifest.xml:13:9-35
+23        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+23-->[androidx.core:core:1.0.0] C:\Users\Kunal\.gradle\caches\transforms-2\files-2.1\1921e8b00664583b96275b63e35c8fb2\core-1.0.0\AndroidManifest.xml:22:18-86
+24        android:debuggable="true"
+25        android:icon="@mipmap/ic_launcher"
+25-->C:\Users\Kunal\Desktop\GroceryStore-with-server\app\src\main\AndroidManifest.xml:14:9-43
+26        android:label="@string/app_name"
+26-->C:\Users\Kunal\Desktop\GroceryStore-with-server\app\src\main\AndroidManifest.xml:15:9-41
+27        android:largeHeap="true"
+27-->C:\Users\Kunal\Desktop\GroceryStore-with-server\app\src\main\AndroidManifest.xml:16:9-33
+28        android:roundIcon="@mipmap/ic_launcher_round"
+28-->C:\Users\Kunal\Desktop\GroceryStore-with-server\app\src\main\AndroidManifest.xml:17:9-54
+29        android:supportsRtl="true"
+29-->C:\Users\Kunal\Desktop\GroceryStore-with-server\app\src\main\AndroidManifest.xml:18:9-35
+30        android:testOnly="true"
+31        android:theme="@style/AppTheme"
+31-->C:\Users\Kunal\Desktop\GroceryStore-with-server\app\src\main\AndroidManifest.xml:19:9-40
+32        android:usesCleartextTraffic="true" >
+32-->C:\Users\Kunal\Desktop\GroceryStore-with-server\app\src\main\AndroidManifest.xml:20:9-44
+33        <activity
+33-->C:\Users\Kunal\Desktop\GroceryStore-with-server\app\src\main\AndroidManifest.xml:22:9-32:20
+34            android:name="com.quintus.labs.grocerystore.activity.WelcomeActivity"
+34-->C:\Users\Kunal\Desktop\GroceryStore-with-server\app\src\main\AndroidManifest.xml:23:13-53
+35            android:configChanges="orientation|screenSize|keyboardHidden"
+35-->C:\Users\Kunal\Desktop\GroceryStore-with-server\app\src\main\AndroidManifest.xml:24:13-74
+36            android:label="@string/app_name"
+36-->C:\Users\Kunal\Desktop\GroceryStore-with-server\app\src\main\AndroidManifest.xml:25:13-45
+37            android:theme="@style/AppTheme.NoActionBar" >
+37-->C:\Users\Kunal\Desktop\GroceryStore-with-server\app\src\main\AndroidManifest.xml:26:13-56
+38            <intent-filter>
+38-->C:\Users\Kunal\Desktop\GroceryStore-with-server\app\src\main\AndroidManifest.xml:27:13-31:29
+39                <action android:name="android.intent.action.MAIN" />
+39-->C:\Users\Kunal\Desktop\GroceryStore-with-server\app\src\main\AndroidManifest.xml:28:17-69
+39-->C:\Users\Kunal\Desktop\GroceryStore-with-server\app\src\main\AndroidManifest.xml:28:25-66
+40
+41                <category android:name="android.intent.category.LAUNCHER" />
+41-->C:\Users\Kunal\Desktop\GroceryStore-with-server\app\src\main\AndroidManifest.xml:30:17-77
+41-->C:\Users\Kunal\Desktop\GroceryStore-with-server\app\src\main\AndroidManifest.xml:30:27-74
+42            </intent-filter>
+43        </activity>
+44        <activity
+44-->C:\Users\Kunal\Desktop\GroceryStore-with-server\app\src\main\AndroidManifest.xml:33:9-36:59
+45            android:name="com.quintus.labs.grocerystore.activity.MainActivity"
+45-->C:\Users\Kunal\Desktop\GroceryStore-with-server\app\src\main\AndroidManifest.xml:34:13-50
+46            android:configChanges="orientation|screenSize|keyboardHidden"
+46-->C:\Users\Kunal\Desktop\GroceryStore-with-server\app\src\main\AndroidManifest.xml:35:13-74
+47            android:theme="@style/AppTheme.NoActionBar" />
+47-->C:\Users\Kunal\Desktop\GroceryStore-with-server\app\src\main\AndroidManifest.xml:36:13-56
+48        <activity android:name="com.quintus.labs.grocerystore.activity.BaseActivity" />
+48-->C:\Users\Kunal\Desktop\GroceryStore-with-server\app\src\main\AndroidManifest.xml:37:9-59
+48-->C:\Users\Kunal\Desktop\GroceryStore-with-server\app\src\main\AndroidManifest.xml:37:19-56
+49        <activity
+49-->C:\Users\Kunal\Desktop\GroceryStore-with-server\app\src\main\AndroidManifest.xml:38:9-40:77
+50            android:name="com.quintus.labs.grocerystore.activity.ProductActivity"
+50-->C:\Users\Kunal\Desktop\GroceryStore-with-server\app\src\main\AndroidManifest.xml:39:13-53
+51            android:configChanges="orientation|screenSize|keyboardHidden" />
+51-->C:\Users\Kunal\Desktop\GroceryStore-with-server\app\src\main\AndroidManifest.xml:40:13-74
+52        <activity
+52-->C:\Users\Kunal\Desktop\GroceryStore-with-server\app\src\main\AndroidManifest.xml:41:9-43:77
+53            android:name="com.quintus.labs.grocerystore.activity.LoginRegisterActivity"
+53-->C:\Users\Kunal\Desktop\GroceryStore-with-server\app\src\main\AndroidManifest.xml:42:13-59
+54            android:configChanges="orientation|screenSize|keyboardHidden" />
+54-->C:\Users\Kunal\Desktop\GroceryStore-with-server\app\src\main\AndroidManifest.xml:43:13-74
+55        <activity android:name="com.quintus.labs.grocerystore.activity.CartActivity" />
+55-->C:\Users\Kunal\Desktop\GroceryStore-with-server\app\src\main\AndroidManifest.xml:44:9-59
+55-->C:\Users\Kunal\Desktop\GroceryStore-with-server\app\src\main\AndroidManifest.xml:44:19-56
+56        <activity android:name="com.quintus.labs.grocerystore.activity.CheckoutActivity" />
+56-->C:\Users\Kunal\Desktop\GroceryStore-with-server\app\src\main\AndroidManifest.xml:45:9-63
+56-->C:\Users\Kunal\Desktop\GroceryStore-with-server\app\src\main\AndroidManifest.xml:45:19-60
+57        <activity android:name="com.quintus.labs.grocerystore.activity.ProductViewActivity" />
+57-->C:\Users\Kunal\Desktop\GroceryStore-with-server\app\src\main\AndroidManifest.xml:46:9-75
+57-->C:\Users\Kunal\Desktop\GroceryStore-with-server\app\src\main\AndroidManifest.xml:46:19-63
+58
+59        <meta-data
+59-->C:\Users\Kunal\Desktop\GroceryStore-with-server\app\src\main\AndroidManifest.xml:48:9-50:49
+60            android:name="com.google.firebase.messaging.default_notification_icon"
+60-->C:\Users\Kunal\Desktop\GroceryStore-with-server\app\src\main\AndroidManifest.xml:49:13-83
+61            android:resource="@drawable/logo" />
+61-->C:\Users\Kunal\Desktop\GroceryStore-with-server\app\src\main\AndroidManifest.xml:50:13-46
+62        <meta-data
+62-->C:\Users\Kunal\Desktop\GroceryStore-with-server\app\src\main\AndroidManifest.xml:51:9-53:53
+63            android:name="com.google.firebase.messaging.default_notification_color"
+63-->C:\Users\Kunal\Desktop\GroceryStore-with-server\app\src\main\AndroidManifest.xml:52:13-84
+64            android:resource="@color/colorAccent" />
+64-->C:\Users\Kunal\Desktop\GroceryStore-with-server\app\src\main\AndroidManifest.xml:53:13-50
+65        <!-- Firebase Notifications -->
+66        <service android:name="com.quintus.labs.grocerystore.service.MyFirebaseMessagingService" >
+66-->C:\Users\Kunal\Desktop\GroceryStore-with-server\app\src\main\AndroidManifest.xml:55:9-59:19
+66-->C:\Users\Kunal\Desktop\GroceryStore-with-server\app\src\main\AndroidManifest.xml:55:18-68
+67            <intent-filter>
+67-->C:\Users\Kunal\Desktop\GroceryStore-with-server\app\src\main\AndroidManifest.xml:56:13-58:29
+68                <action android:name="com.google.firebase.MESSAGING_EVENT" />
+68-->C:\Users\Kunal\Desktop\GroceryStore-with-server\app\src\main\AndroidManifest.xml:57:17-78
+68-->C:\Users\Kunal\Desktop\GroceryStore-with-server\app\src\main\AndroidManifest.xml:57:25-75
+69            </intent-filter>
+70        </service>
+71
+72        <provider
+72-->[com.squareup.picasso:picasso:2.71828] C:\Users\Kunal\.gradle\caches\transforms-2\files-2.1\f133acf39526eaa9eec8b18c442977c1\jetified-picasso-2.71828\AndroidManifest.xml:8:9-11:40
+73            android:name="com.squareup.picasso.PicassoProvider"
+73-->[com.squareup.picasso:picasso:2.71828] C:\Users\Kunal\.gradle\caches\transforms-2\files-2.1\f133acf39526eaa9eec8b18c442977c1\jetified-picasso-2.71828\AndroidManifest.xml:9:13-64
+74            android:authorities="com.quintus.labs.grocerystore.com.squareup.picasso"
+74-->[com.squareup.picasso:picasso:2.71828] C:\Users\Kunal\.gradle\caches\transforms-2\files-2.1\f133acf39526eaa9eec8b18c442977c1\jetified-picasso-2.71828\AndroidManifest.xml:10:13-72
+75            android:exported="false" />
+75-->[com.squareup.picasso:picasso:2.71828] C:\Users\Kunal\.gradle\caches\transforms-2\files-2.1\f133acf39526eaa9eec8b18c442977c1\jetified-picasso-2.71828\AndroidManifest.xml:11:13-37
+76        <!--
+77             FirebaseMessagingService performs security checks at runtime,
+78             but set to not exported to explicitly avoid allowing another app to call it.
+79        -->
+80        <service
+80-->[com.google.firebase:firebase-messaging:20.1.5] C:\Users\Kunal\.gradle\caches\transforms-2\files-2.1\adedc357efaf9eb1f0b5cb4c33669284\jetified-firebase-messaging-20.1.5\AndroidManifest.xml:28:9-34:19
+81            android:name="com.google.firebase.messaging.FirebaseMessagingService"
+81-->[com.google.firebase:firebase-messaging:20.1.5] C:\Users\Kunal\.gradle\caches\transforms-2\files-2.1\adedc357efaf9eb1f0b5cb4c33669284\jetified-firebase-messaging-20.1.5\AndroidManifest.xml:29:13-82
+82            android:exported="false" >
+82-->[com.google.firebase:firebase-messaging:20.1.5] C:\Users\Kunal\.gradle\caches\transforms-2\files-2.1\adedc357efaf9eb1f0b5cb4c33669284\jetified-firebase-messaging-20.1.5\AndroidManifest.xml:30:13-37
+83            <intent-filter android:priority="-500" >
+83-->C:\Users\Kunal\Desktop\GroceryStore-with-server\app\src\main\AndroidManifest.xml:56:13-58:29
+84                <action android:name="com.google.firebase.MESSAGING_EVENT" />
+84-->C:\Users\Kunal\Desktop\GroceryStore-with-server\app\src\main\AndroidManifest.xml:57:17-78
+84-->C:\Users\Kunal\Desktop\GroceryStore-with-server\app\src\main\AndroidManifest.xml:57:25-75
+85            </intent-filter>
+86        </service>
+87        <service
+87-->[com.google.firebase:firebase-messaging:20.1.5] C:\Users\Kunal\.gradle\caches\transforms-2\files-2.1\adedc357efaf9eb1f0b5cb4c33669284\jetified-firebase-messaging-20.1.5\AndroidManifest.xml:35:9-41:19
+88            android:name="com.google.firebase.components.ComponentDiscoveryService"
+88-->[com.google.firebase:firebase-messaging:20.1.5] C:\Users\Kunal\.gradle\caches\transforms-2\files-2.1\adedc357efaf9eb1f0b5cb4c33669284\jetified-firebase-messaging-20.1.5\AndroidManifest.xml:36:13-84
+89            android:directBootAware="true"
+89-->[com.google.firebase:firebase-common:19.3.0] C:\Users\Kunal\.gradle\caches\transforms-2\files-2.1\3deb10f8139ef5717b3d54ada2a19ca4\jetified-firebase-common-19.3.0\AndroidManifest.xml:34:13-43
+90            android:exported="false" >
+90-->[com.google.firebase:firebase-messaging:20.1.5] C:\Users\Kunal\.gradle\caches\transforms-2\files-2.1\adedc357efaf9eb1f0b5cb4c33669284\jetified-firebase-messaging-20.1.5\AndroidManifest.xml:37:13-37
+91            <meta-data
+91-->[com.google.firebase:firebase-messaging:20.1.5] C:\Users\Kunal\.gradle\caches\transforms-2\files-2.1\adedc357efaf9eb1f0b5cb4c33669284\jetified-firebase-messaging-20.1.5\AndroidManifest.xml:38:13-40:85
+92                android:name="com.google.firebase.components:com.google.firebase.messaging.FirebaseMessagingRegistrar"
+92-->[com.google.firebase:firebase-messaging:20.1.5] C:\Users\Kunal\.gradle\caches\transforms-2\files-2.1\adedc357efaf9eb1f0b5cb4c33669284\jetified-firebase-messaging-20.1.5\AndroidManifest.xml:39:17-119
+93                android:value="com.google.firebase.components.ComponentRegistrar" />
+93-->[com.google.firebase:firebase-messaging:20.1.5] C:\Users\Kunal\.gradle\caches\transforms-2\files-2.1\adedc357efaf9eb1f0b5cb4c33669284\jetified-firebase-messaging-20.1.5\AndroidManifest.xml:40:17-82
+94            <meta-data
+94-->[com.google.android.gms:play-services-measurement-api:17.3.0] C:\Users\Kunal\.gradle\caches\transforms-2\files-2.1\d734e85b2ea2f6b5c3dd2e12b4244ac5\jetified-play-services-measurement-api-17.3.0\AndroidManifest.xml:30:13-32:85
+95                android:name="com.google.firebase.components:com.google.firebase.analytics.connector.internal.AnalyticsConnectorRegistrar"
+95-->[com.google.android.gms:play-services-measurement-api:17.3.0] C:\Users\Kunal\.gradle\caches\transforms-2\files-2.1\d734e85b2ea2f6b5c3dd2e12b4244ac5\jetified-play-services-measurement-api-17.3.0\AndroidManifest.xml:31:17-139
+96                android:value="com.google.firebase.components.ComponentRegistrar" />
+96-->[com.google.android.gms:play-services-measurement-api:17.3.0] C:\Users\Kunal\.gradle\caches\transforms-2\files-2.1\d734e85b2ea2f6b5c3dd2e12b4244ac5\jetified-play-services-measurement-api-17.3.0\AndroidManifest.xml:32:17-82
+97            <meta-data
+97-->[com.google.firebase:firebase-iid:20.1.5] C:\Users\Kunal\.gradle\caches\transforms-2\files-2.1\8183980bc8e77d4fe843a9e6d0f0d6a0\jetified-firebase-iid-20.1.5\AndroidManifest.xml:32:13-34:85
+98                android:name="com.google.firebase.components:com.google.firebase.iid.Registrar"
+98-->[com.google.firebase:firebase-iid:20.1.5] C:\Users\Kunal\.gradle\caches\transforms-2\files-2.1\8183980bc8e77d4fe843a9e6d0f0d6a0\jetified-firebase-iid-20.1.5\AndroidManifest.xml:33:17-96
+99                android:value="com.google.firebase.components.ComponentRegistrar" />
+99-->[com.google.firebase:firebase-iid:20.1.5] C:\Users\Kunal\.gradle\caches\transforms-2\files-2.1\8183980bc8e77d4fe843a9e6d0f0d6a0\jetified-firebase-iid-20.1.5\AndroidManifest.xml:34:17-82
+100            <meta-data
+100-->[com.google.firebase:firebase-datatransport:17.0.3] C:\Users\Kunal\.gradle\caches\transforms-2\files-2.1\d1f75898c761cea33a2c195c10b32583\jetified-firebase-datatransport-17.0.3\AndroidManifest.xml:28:13-30:85
+101                android:name="com.google.firebase.components:com.google.firebase.datatransport.TransportRegistrar"
+101-->[com.google.firebase:firebase-datatransport:17.0.3] C:\Users\Kunal\.gradle\caches\transforms-2\files-2.1\d1f75898c761cea33a2c195c10b32583\jetified-firebase-datatransport-17.0.3\AndroidManifest.xml:29:17-115
+102                android:value="com.google.firebase.components.ComponentRegistrar" />
+102-->[com.google.firebase:firebase-datatransport:17.0.3] C:\Users\Kunal\.gradle\caches\transforms-2\files-2.1\d1f75898c761cea33a2c195c10b32583\jetified-firebase-datatransport-17.0.3\AndroidManifest.xml:30:17-82
+103            <meta-data
+103-->[com.google.firebase:firebase-installations:16.2.1] C:\Users\Kunal\.gradle\caches\transforms-2\files-2.1\80b5e92b70a89d4f419c7604b16b139f\jetified-firebase-installations-16.2.1\AndroidManifest.xml:17:13-19:85
+104                android:name="com.google.firebase.components:com.google.firebase.installations.FirebaseInstallationsRegistrar"
+104-->[com.google.firebase:firebase-installations:16.2.1] C:\Users\Kunal\.gradle\caches\transforms-2\files-2.1\80b5e92b70a89d4f419c7604b16b139f\jetified-firebase-installations-16.2.1\AndroidManifest.xml:18:17-127
+105                android:value="com.google.firebase.components.ComponentRegistrar" />
+105-->[com.google.firebase:firebase-installations:16.2.1] C:\Users\Kunal\.gradle\caches\transforms-2\files-2.1\80b5e92b70a89d4f419c7604b16b139f\jetified-firebase-installations-16.2.1\AndroidManifest.xml:19:17-82
+106        </service>
+107
+108        <receiver
+108-->[com.google.firebase:firebase-iid:20.1.5] C:\Users\Kunal\.gradle\caches\transforms-2\files-2.1\8183980bc8e77d4fe843a9e6d0f0d6a0\jetified-firebase-iid-20.1.5\AndroidManifest.xml:37:9-44:20
+109            android:name="com.google.firebase.iid.FirebaseInstanceIdReceiver"
+109-->[com.google.firebase:firebase-iid:20.1.5] C:\Users\Kunal\.gradle\caches\transforms-2\files-2.1\8183980bc8e77d4fe843a9e6d0f0d6a0\jetified-firebase-iid-20.1.5\AndroidManifest.xml:38:13-78
+110            android:exported="true"
+110-->[com.google.firebase:firebase-iid:20.1.5] C:\Users\Kunal\.gradle\caches\transforms-2\files-2.1\8183980bc8e77d4fe843a9e6d0f0d6a0\jetified-firebase-iid-20.1.5\AndroidManifest.xml:39:13-36
+111            android:permission="com.google.android.c2dm.permission.SEND" >
+111-->[com.google.firebase:firebase-iid:20.1.5] C:\Users\Kunal\.gradle\caches\transforms-2\files-2.1\8183980bc8e77d4fe843a9e6d0f0d6a0\jetified-firebase-iid-20.1.5\AndroidManifest.xml:40:13-73
+112            <intent-filter>
+112-->[com.google.firebase:firebase-iid:20.1.5] C:\Users\Kunal\.gradle\caches\transforms-2\files-2.1\8183980bc8e77d4fe843a9e6d0f0d6a0\jetified-firebase-iid-20.1.5\AndroidManifest.xml:41:13-43:29
+113                <action android:name="com.google.android.c2dm.intent.RECEIVE" />
+113-->[com.google.firebase:firebase-iid:20.1.5] C:\Users\Kunal\.gradle\caches\transforms-2\files-2.1\8183980bc8e77d4fe843a9e6d0f0d6a0\jetified-firebase-iid-20.1.5\AndroidManifest.xml:42:17-81
+113-->[com.google.firebase:firebase-iid:20.1.5] C:\Users\Kunal\.gradle\caches\transforms-2\files-2.1\8183980bc8e77d4fe843a9e6d0f0d6a0\jetified-firebase-iid-20.1.5\AndroidManifest.xml:42:25-78
+114            </intent-filter>
+115        </receiver>
+116        <receiver
+116-->[com.google.android.gms:play-services-measurement:17.3.0] C:\Users\Kunal\.gradle\caches\transforms-2\files-2.1\c286a662b2c14e12c87c511e7fbec4aa\jetified-play-services-measurement-17.3.0\AndroidManifest.xml:29:9-33:20
+117            android:name="com.google.android.gms.measurement.AppMeasurementReceiver"
+117-->[com.google.android.gms:play-services-measurement:17.3.0] C:\Users\Kunal\.gradle\caches\transforms-2\files-2.1\c286a662b2c14e12c87c511e7fbec4aa\jetified-play-services-measurement-17.3.0\AndroidManifest.xml:30:13-85
+118            android:enabled="true"
+118-->[com.google.android.gms:play-services-measurement:17.3.0] C:\Users\Kunal\.gradle\caches\transforms-2\files-2.1\c286a662b2c14e12c87c511e7fbec4aa\jetified-play-services-measurement-17.3.0\AndroidManifest.xml:31:13-35
+119            android:exported="false" >
+119-->[com.google.android.gms:play-services-measurement:17.3.0] C:\Users\Kunal\.gradle\caches\transforms-2\files-2.1\c286a662b2c14e12c87c511e7fbec4aa\jetified-play-services-measurement-17.3.0\AndroidManifest.xml:32:13-37
+120        </receiver>
+121        <receiver
+121-->[com.google.android.gms:play-services-measurement:17.3.0] C:\Users\Kunal\.gradle\caches\transforms-2\files-2.1\c286a662b2c14e12c87c511e7fbec4aa\jetified-play-services-measurement-17.3.0\AndroidManifest.xml:34:9-42:20
+122            android:name="com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver"
+122-->[com.google.android.gms:play-services-measurement:17.3.0] C:\Users\Kunal\.gradle\caches\transforms-2\files-2.1\c286a662b2c14e12c87c511e7fbec4aa\jetified-play-services-measurement-17.3.0\AndroidManifest.xml:35:13-100
+123            android:enabled="true"
+123-->[com.google.android.gms:play-services-measurement:17.3.0] C:\Users\Kunal\.gradle\caches\transforms-2\files-2.1\c286a662b2c14e12c87c511e7fbec4aa\jetified-play-services-measurement-17.3.0\AndroidManifest.xml:36:13-35
+124            android:exported="true"
+124-->[com.google.android.gms:play-services-measurement:17.3.0] C:\Users\Kunal\.gradle\caches\transforms-2\files-2.1\c286a662b2c14e12c87c511e7fbec4aa\jetified-play-services-measurement-17.3.0\AndroidManifest.xml:37:13-36
+125            android:permission="android.permission.INSTALL_PACKAGES" >
+125-->[com.google.android.gms:play-services-measurement:17.3.0] C:\Users\Kunal\.gradle\caches\transforms-2\files-2.1\c286a662b2c14e12c87c511e7fbec4aa\jetified-play-services-measurement-17.3.0\AndroidManifest.xml:38:13-69
+126            <intent-filter>
+126-->[com.google.android.gms:play-services-measurement:17.3.0] C:\Users\Kunal\.gradle\caches\transforms-2\files-2.1\c286a662b2c14e12c87c511e7fbec4aa\jetified-play-services-measurement-17.3.0\AndroidManifest.xml:39:13-41:29
+127                <action android:name="com.android.vending.INSTALL_REFERRER" />
+127-->[com.google.android.gms:play-services-measurement:17.3.0] C:\Users\Kunal\.gradle\caches\transforms-2\files-2.1\c286a662b2c14e12c87c511e7fbec4aa\jetified-play-services-measurement-17.3.0\AndroidManifest.xml:40:17-79
+127-->[com.google.android.gms:play-services-measurement:17.3.0] C:\Users\Kunal\.gradle\caches\transforms-2\files-2.1\c286a662b2c14e12c87c511e7fbec4aa\jetified-play-services-measurement-17.3.0\AndroidManifest.xml:40:25-76
+128            </intent-filter>
+129        </receiver>
+130
+131        <service
+131-->[com.google.android.gms:play-services-measurement:17.3.0] C:\Users\Kunal\.gradle\caches\transforms-2\files-2.1\c286a662b2c14e12c87c511e7fbec4aa\jetified-play-services-measurement-17.3.0\AndroidManifest.xml:44:9-47:40
+132            android:name="com.google.android.gms.measurement.AppMeasurementService"
+132-->[com.google.android.gms:play-services-measurement:17.3.0] C:\Users\Kunal\.gradle\caches\transforms-2\files-2.1\c286a662b2c14e12c87c511e7fbec4aa\jetified-play-services-measurement-17.3.0\AndroidManifest.xml:45:13-84
+133            android:enabled="true"
+133-->[com.google.android.gms:play-services-measurement:17.3.0] C:\Users\Kunal\.gradle\caches\transforms-2\files-2.1\c286a662b2c14e12c87c511e7fbec4aa\jetified-play-services-measurement-17.3.0\AndroidManifest.xml:46:13-35
+134            android:exported="false" />
+134-->[com.google.android.gms:play-services-measurement:17.3.0] C:\Users\Kunal\.gradle\caches\transforms-2\files-2.1\c286a662b2c14e12c87c511e7fbec4aa\jetified-play-services-measurement-17.3.0\AndroidManifest.xml:47:13-37
+135        <service
+135-->[com.google.android.gms:play-services-measurement:17.3.0] C:\Users\Kunal\.gradle\caches\transforms-2\files-2.1\c286a662b2c14e12c87c511e7fbec4aa\jetified-play-services-measurement-17.3.0\AndroidManifest.xml:48:9-52:72
+136            android:name="com.google.android.gms.measurement.AppMeasurementJobService"
+136-->[com.google.android.gms:play-services-measurement:17.3.0] C:\Users\Kunal\.gradle\caches\transforms-2\files-2.1\c286a662b2c14e12c87c511e7fbec4aa\jetified-play-services-measurement-17.3.0\AndroidManifest.xml:49:13-87
+137            android:enabled="true"
+137-->[com.google.android.gms:play-services-measurement:17.3.0] C:\Users\Kunal\.gradle\caches\transforms-2\files-2.1\c286a662b2c14e12c87c511e7fbec4aa\jetified-play-services-measurement-17.3.0\AndroidManifest.xml:50:13-35
+138            android:exported="false"
+138-->[com.google.android.gms:play-services-measurement:17.3.0] C:\Users\Kunal\.gradle\caches\transforms-2\files-2.1\c286a662b2c14e12c87c511e7fbec4aa\jetified-play-services-measurement-17.3.0\AndroidManifest.xml:51:13-37
+139            android:permission="android.permission.BIND_JOB_SERVICE" />
+139-->[com.google.android.gms:play-services-measurement:17.3.0] C:\Users\Kunal\.gradle\caches\transforms-2\files-2.1\c286a662b2c14e12c87c511e7fbec4aa\jetified-play-services-measurement-17.3.0\AndroidManifest.xml:52:13-69
+140
+141        <provider
+141-->[com.google.firebase:firebase-common:19.3.0] C:\Users\Kunal\.gradle\caches\transforms-2\files-2.1\3deb10f8139ef5717b3d54ada2a19ca4\jetified-firebase-common-19.3.0\AndroidManifest.xml:26:9-30:39
+142            android:name="com.google.firebase.provider.FirebaseInitProvider"
+142-->[com.google.firebase:firebase-common:19.3.0] C:\Users\Kunal\.gradle\caches\transforms-2\files-2.1\3deb10f8139ef5717b3d54ada2a19ca4\jetified-firebase-common-19.3.0\AndroidManifest.xml:27:13-77
+143            android:authorities="com.quintus.labs.grocerystore.firebaseinitprovider"
+143-->[com.google.firebase:firebase-common:19.3.0] C:\Users\Kunal\.gradle\caches\transforms-2\files-2.1\3deb10f8139ef5717b3d54ada2a19ca4\jetified-firebase-common-19.3.0\AndroidManifest.xml:28:13-72
+144            android:exported="false"
+144-->[com.google.firebase:firebase-common:19.3.0] C:\Users\Kunal\.gradle\caches\transforms-2\files-2.1\3deb10f8139ef5717b3d54ada2a19ca4\jetified-firebase-common-19.3.0\AndroidManifest.xml:29:13-37
+145            android:initOrder="100" />
+145-->[com.google.firebase:firebase-common:19.3.0] C:\Users\Kunal\.gradle\caches\transforms-2\files-2.1\3deb10f8139ef5717b3d54ada2a19ca4\jetified-firebase-common-19.3.0\AndroidManifest.xml:30:13-36
+146
+147        <activity
+147-->[com.google.android.gms:play-services-base:17.0.0] C:\Users\Kunal\.gradle\caches\transforms-2\files-2.1\2be5ef2959ea5355d833f1cf7554bfda\jetified-play-services-base-17.0.0\AndroidManifest.xml:23:9-26:75
+148            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+148-->[com.google.android.gms:play-services-base:17.0.0] C:\Users\Kunal\.gradle\caches\transforms-2\files-2.1\2be5ef2959ea5355d833f1cf7554bfda\jetified-play-services-base-17.0.0\AndroidManifest.xml:24:13-79
+149            android:exported="false"
+149-->[com.google.android.gms:play-services-base:17.0.0] C:\Users\Kunal\.gradle\caches\transforms-2\files-2.1\2be5ef2959ea5355d833f1cf7554bfda\jetified-play-services-base-17.0.0\AndroidManifest.xml:25:13-37
+150            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+150-->[com.google.android.gms:play-services-base:17.0.0] C:\Users\Kunal\.gradle\caches\transforms-2\files-2.1\2be5ef2959ea5355d833f1cf7554bfda\jetified-play-services-base-17.0.0\AndroidManifest.xml:26:13-72
+151
+152        <meta-data
+152-->[com.google.android.gms:play-services-basement:17.0.0] C:\Users\Kunal\.gradle\caches\transforms-2\files-2.1\164bb505b81f338baa0db13edd04c1d1\jetified-play-services-basement-17.0.0\AndroidManifest.xml:23:9-25:69
+153            android:name="com.google.android.gms.version"
+153-->[com.google.android.gms:play-services-basement:17.0.0] C:\Users\Kunal\.gradle\caches\transforms-2\files-2.1\164bb505b81f338baa0db13edd04c1d1\jetified-play-services-basement-17.0.0\AndroidManifest.xml:24:13-58
+154            android:value="@integer/google_play_services_version" />
+154-->[com.google.android.gms:play-services-basement:17.0.0] C:\Users\Kunal\.gradle\caches\transforms-2\files-2.1\164bb505b81f338baa0db13edd04c1d1\jetified-play-services-basement-17.0.0\AndroidManifest.xml:25:13-66
+155
+156        <service
+156-->[com.google.android.datatransport:transport-backend-cct:2.2.0] C:\Users\Kunal\.gradle\caches\transforms-2\files-2.1\af8b852dc9492850dfd58fa4b08b6b31\jetified-transport-backend-cct-2.2.0\AndroidManifest.xml:29:9-35:19
+157            android:name="com.google.android.datatransport.runtime.backends.TransportBackendDiscovery"
+157-->[com.google.android.datatransport:transport-backend-cct:2.2.0] C:\Users\Kunal\.gradle\caches\transforms-2\files-2.1\af8b852dc9492850dfd58fa4b08b6b31\jetified-transport-backend-cct-2.2.0\AndroidManifest.xml:30:13-103
+158            android:exported="false" >
+158-->[com.google.android.datatransport:transport-backend-cct:2.2.0] C:\Users\Kunal\.gradle\caches\transforms-2\files-2.1\af8b852dc9492850dfd58fa4b08b6b31\jetified-transport-backend-cct-2.2.0\AndroidManifest.xml:31:13-37
+159            <meta-data
+159-->[com.google.android.datatransport:transport-backend-cct:2.2.0] C:\Users\Kunal\.gradle\caches\transforms-2\files-2.1\af8b852dc9492850dfd58fa4b08b6b31\jetified-transport-backend-cct-2.2.0\AndroidManifest.xml:32:13-34:39
+160                android:name="backend:com.google.android.datatransport.cct.CctBackendFactory"
+160-->[com.google.android.datatransport:transport-backend-cct:2.2.0] C:\Users\Kunal\.gradle\caches\transforms-2\files-2.1\af8b852dc9492850dfd58fa4b08b6b31\jetified-transport-backend-cct-2.2.0\AndroidManifest.xml:33:17-94
+161                android:value="cct" />
+161-->[com.google.android.datatransport:transport-backend-cct:2.2.0] C:\Users\Kunal\.gradle\caches\transforms-2\files-2.1\af8b852dc9492850dfd58fa4b08b6b31\jetified-transport-backend-cct-2.2.0\AndroidManifest.xml:34:17-36
+162        </service>
+163        <service
+163-->[com.google.android.datatransport:transport-runtime:2.2.0] C:\Users\Kunal\.gradle\caches\transforms-2\files-2.1\6ef9d023f91cb51a7dcd488e27c3d1cb\jetified-transport-runtime-2.2.0\AndroidManifest.xml:26:9-30:19
+164            android:name="com.google.android.datatransport.runtime.scheduling.jobscheduling.JobInfoSchedulerService"
+164-->[com.google.android.datatransport:transport-runtime:2.2.0] C:\Users\Kunal\.gradle\caches\transforms-2\files-2.1\6ef9d023f91cb51a7dcd488e27c3d1cb\jetified-transport-runtime-2.2.0\AndroidManifest.xml:27:13-117
+165            android:exported="false"
+165-->[com.google.android.datatransport:transport-runtime:2.2.0] C:\Users\Kunal\.gradle\caches\transforms-2\files-2.1\6ef9d023f91cb51a7dcd488e27c3d1cb\jetified-transport-runtime-2.2.0\AndroidManifest.xml:28:13-37
+166            android:permission="android.permission.BIND_JOB_SERVICE" >
+166-->[com.google.android.datatransport:transport-runtime:2.2.0] C:\Users\Kunal\.gradle\caches\transforms-2\files-2.1\6ef9d023f91cb51a7dcd488e27c3d1cb\jetified-transport-runtime-2.2.0\AndroidManifest.xml:29:13-69
+167        </service>
+168
+169        <receiver
+169-->[com.google.android.datatransport:transport-runtime:2.2.0] C:\Users\Kunal\.gradle\caches\transforms-2\files-2.1\6ef9d023f91cb51a7dcd488e27c3d1cb\jetified-transport-runtime-2.2.0\AndroidManifest.xml:32:9-34:40
+170            android:name="com.google.android.datatransport.runtime.scheduling.jobscheduling.AlarmManagerSchedulerBroadcastReceiver"
+170-->[com.google.android.datatransport:transport-runtime:2.2.0] C:\Users\Kunal\.gradle\caches\transforms-2\files-2.1\6ef9d023f91cb51a7dcd488e27c3d1cb\jetified-transport-runtime-2.2.0\AndroidManifest.xml:33:13-132
+171            android:exported="false" />
+171-->[com.google.android.datatransport:transport-runtime:2.2.0] C:\Users\Kunal\.gradle\caches\transforms-2\files-2.1\6ef9d023f91cb51a7dcd488e27c3d1cb\jetified-transport-runtime-2.2.0\AndroidManifest.xml:34:13-37
+172    </application>
+173
+174</manifest>

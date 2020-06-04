@@ -1,0 +1,1614 @@
+[
+    {
+        "merged": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\intermediates\\res\\merged\\debug\\menu_activity_main_drawer.xml.flat",
+        "source": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\src\\main\\res\\menu\\activity_main_drawer.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_list.png.flat",
+        "source": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_list.png"
+    },
+    {
+        "merged": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_placeholder_unselect.png.flat",
+        "source": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_placeholder_unselect.png"
+    },
+    {
+        "merged": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_credit_card.png.flat",
+        "source": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_credit_card.png"
+    },
+    {
+        "merged": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\intermediates\\res\\merged\\debug\\drawable_category_textview_bg.xml.flat",
+        "source": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\src\\main\\res\\drawable\\category_textview_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_listed_items.png.flat",
+        "source": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_listed_items.png"
+    },
+    {
+        "merged": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_credit_card.png.flat",
+        "source": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_credit_card.png"
+    },
+    {
+        "merged": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_pay_per_click.png.flat",
+        "source": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_pay_per_click.png"
+    },
+    {
+        "merged": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_lettuce.png.flat",
+        "source": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_lettuce.png"
+    },
+    {
+        "merged": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_home.png.flat",
+        "source": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_home.png"
+    },
+    {
+        "merged": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_credit_card_select.xml.flat",
+        "source": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_credit_card_select.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\intermediates\\res\\merged\\debug\\drawable_circle_shape.xml.flat",
+        "source": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\src\\main\\res\\drawable\\circle_shape.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_profile.xml.flat",
+        "source": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\src\\main\\res\\layout\\fragment_profile.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_lettuce.png.flat",
+        "source": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_lettuce.png"
+    },
+    {
+        "merged": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_discount.png.flat",
+        "source": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_discount.png"
+    },
+    {
+        "merged": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_discount.png.flat",
+        "source": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_discount.png"
+    },
+    {
+        "merged": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_pay_per_click.xml.flat",
+        "source": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_pay_per_click.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_user.png.flat",
+        "source": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\src\\main\\res\\drawable-hdpi\\user.png"
+    },
+    {
+        "merged": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_confirm.png.flat",
+        "source": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_confirm.png"
+    },
+    {
+        "merged": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_placeholder_unselect.xml.flat",
+        "source": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_placeholder_unselect.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_my_order.xml.flat",
+        "source": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\src\\main\\res\\layout\\fragment_my_order.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_phone.png.flat",
+        "source": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\src\\main\\res\\drawable-hdpi\\phone.png"
+    },
+    {
+        "merged": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_home.xml.flat",
+        "source": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_confirm_unselect.xml.flat",
+        "source": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_confirm_unselect.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_confirm.png.flat",
+        "source": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_confirm.png"
+    },
+    {
+        "merged": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_discount.png.flat",
+        "source": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_discount.png"
+    },
+    {
+        "merged": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_shopping_basket.xml.flat",
+        "source": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_shopping_basket.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21_ic_menu_manage.xml.flat",
+        "source": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\src\\main\\res\\drawable-v21\\ic_menu_manage.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_close.png.flat",
+        "source": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\close.png"
+    },
+    {
+        "merged": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\intermediates\\res\\merged\\debug\\drawable_toolbarbg.xml.flat",
+        "source": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\src\\main\\res\\drawable\\toolbarbg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_close_black_24dp.png.flat",
+        "source": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_close_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_plus.png.flat",
+        "source": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_plus.png"
+    },
+    {
+        "merged": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\intermediates\\res\\merged\\debug\\anim_slide_from_left.xml.flat",
+        "source": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\src\\main\\res\\anim\\slide_from_left.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_placeholder_select.png.flat",
+        "source": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_placeholder_select.png"
+    },
+    {
+        "merged": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_shopping_basket.png.flat",
+        "source": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_shopping_basket.png"
+    },
+    {
+        "merged": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_category.xml.flat",
+        "source": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\src\\main\\res\\layout\\fragment_category.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_options.xml.flat",
+        "source": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_options.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\intermediates\\res\\merged\\debug\\anim_right_out.xml.flat",
+        "source": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\src\\main\\res\\anim\\right_out.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_male.png.flat",
+        "source": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_male.png"
+    },
+    {
+        "merged": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_credit_card_select.png.flat",
+        "source": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_credit_card_select.png"
+    },
+    {
+        "merged": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\intermediates\\res\\merged\\debug\\drawable_tab_bg.xml.flat",
+        "source": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\src\\main\\res\\drawable\\tab_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_list.png.flat",
+        "source": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_list.png"
+    },
+    {
+        "merged": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_close_black_24dp.xml.flat",
+        "source": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_close_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_new.xml.flat",
+        "source": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\src\\main\\res\\layout\\fragment_new.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_delete_black_24dp.xml.flat",
+        "source": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_delete_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\intermediates\\res\\merged\\debug\\drawable_happy_shopping.jpg.flat",
+        "source": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\src\\main\\res\\drawable\\happy_shopping.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_confirm_unselect.png.flat",
+        "source": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_confirm_unselect.png"
+    },
+    {
+        "merged": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_close.png.flat",
+        "source": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\close.png"
+    },
+    {
+        "merged": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_login_register.xml.flat",
+        "source": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\src\\main\\res\\layout\\activity_login_register.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\intermediates\\res\\merged\\debug\\anim_slide_from_right.xml.flat",
+        "source": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\src\\main\\res\\anim\\slide_from_right.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\intermediates\\res\\merged\\debug\\layout_signup_layout.xml.flat",
+        "source": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\src\\main\\res\\layout\\signup_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_power_settings_new_black_24dp.png.flat",
+        "source": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_power_settings_new_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_power_settings_new_black_24dp.png.flat",
+        "source": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_power_settings_new_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_grid.png.flat",
+        "source": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_grid.png"
+    },
+    {
+        "merged": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_confirm_unselect.png.flat",
+        "source": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_confirm_unselect.png"
+    },
+    {
+        "merged": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\intermediates\\res\\merged\\debug\\layout_row_new_home_products.xml.flat",
+        "source": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\src\\main\\res\\layout\\row_new_home_products.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_delete_black_24dp.png.flat",
+        "source": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_delete_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21_ic_menu_camera.xml.flat",
+        "source": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\src\\main\\res\\drawable-v21\\ic_menu_camera.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_confirm_selected.png.flat",
+        "source": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_confirm_selected.png"
+    },
+    {
+        "merged": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\intermediates\\res\\merged\\debug\\drawable_active_dot.xml.flat",
+        "source": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\src\\main\\res\\drawable\\active_dot.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\intermediates\\res\\merged\\debug\\layout_custom_toast.xml.flat",
+        "source": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\src\\main\\res\\layout\\custom_toast.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\intermediates\\res\\merged\\debug\\drawable_addcart.png.flat",
+        "source": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\src\\main\\res\\drawable\\addcart.png"
+    },
+    {
+        "merged": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_confirm_selected.png.flat",
+        "source": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_confirm_selected.png"
+    },
+    {
+        "merged": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_close_black_24dp.png.flat",
+        "source": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_close_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_shuffle.png.flat",
+        "source": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_shuffle.png"
+    },
+    {
+        "merged": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\intermediates\\res\\merged\\debug\\drawable_add_to_cart_textview_bg.xml.flat",
+        "source": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\src\\main\\res\\drawable\\add_to_cart_textview_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_power_settings_new_black_24dp.png.flat",
+        "source": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_power_settings_new_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_power_settings_new_black_24dp.png.flat",
+        "source": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_power_settings_new_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_minus.png.flat",
+        "source": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_minus.png"
+    },
+    {
+        "merged": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_ecommerce.png.flat",
+        "source": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_ecommerce.png"
+    },
+    {
+        "merged": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_confirm_selected.png.flat",
+        "source": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_confirm_selected.png"
+    },
+    {
+        "merged": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_search_black_24dp.png.flat",
+        "source": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_search_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_plus.png.flat",
+        "source": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_plus.png"
+    },
+    {
+        "merged": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_placeholder_select.png.flat",
+        "source": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_placeholder_select.png"
+    },
+    {
+        "merged": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_confirm.png.flat",
+        "source": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_confirm.png"
+    },
+    {
+        "merged": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_placeholder.png.flat",
+        "source": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_placeholder.png"
+    },
+    {
+        "merged": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_left_arrow.png.flat",
+        "source": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_left_arrow.png"
+    },
+    {
+        "merged": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_grid.xml.flat",
+        "source": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_grid.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_list.png.flat",
+        "source": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_list.png"
+    },
+    {
+        "merged": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_payment.xml.flat",
+        "source": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\src\\main\\res\\layout\\fragment_payment.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_coupon.png.flat",
+        "source": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_coupon.png"
+    },
+    {
+        "merged": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_delete_black_24dp.png.flat",
+        "source": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_delete_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_shopping_cart_black_24dp.png.flat",
+        "source": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_shopping_cart_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_silder3.jpg.flat",
+        "source": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\src\\main\\res\\drawable-v24\\silder3.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\intermediates\\res\\merged\\debug\\drawable_orange.jpeg.flat",
+        "source": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\src\\main\\res\\drawable\\orange.jpeg"
+    },
+    {
+        "merged": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_lettuce.png.flat",
+        "source": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_lettuce.png"
+    },
+    {
+        "merged": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_goods.png.flat",
+        "source": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_goods.png"
+    },
+    {
+        "merged": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_listed_items.xml.flat",
+        "source": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_listed_items.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_minus.png.flat",
+        "source": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_minus.png"
+    },
+    {
+        "merged": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_stars.png.flat",
+        "source": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_stars.png"
+    },
+    {
+        "merged": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_listed_items.png.flat",
+        "source": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_listed_items.png"
+    },
+    {
+        "merged": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_lettuce.png.flat",
+        "source": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_lettuce.png"
+    },
+    {
+        "merged": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_power_settings_new_black_24dp.png.flat",
+        "source": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_power_settings_new_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_left_arrow.png.flat",
+        "source": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_left_arrow.png"
+    },
+    {
+        "merged": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\intermediates\\res\\merged\\debug\\drawable_button_gradient_bg.xml.flat",
+        "source": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\src\\main\\res\\drawable\\button_gradient_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_arrow_back_black_24dp.png.flat",
+        "source": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_arrow_back_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_plus.png.flat",
+        "source": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_plus.png"
+    },
+    {
+        "merged": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_pay_per_click.png.flat",
+        "source": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_pay_per_click.png"
+    },
+    {
+        "merged": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_male.png.flat",
+        "source": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_male.png"
+    },
+    {
+        "merged": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\intermediates\\res\\merged\\debug\\layout_row_offer.xml.flat",
+        "source": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\src\\main\\res\\layout\\row_offer.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\intermediates\\res\\merged\\debug\\drawable_share.png.flat",
+        "source": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\src\\main\\res\\drawable\\share.png"
+    },
+    {
+        "merged": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_list.png.flat",
+        "source": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_list.png"
+    },
+    {
+        "merged": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_email.png.flat",
+        "source": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\src\\main\\res\\drawable-hdpi\\email.png"
+    },
+    {
+        "merged": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_confirm.png.flat",
+        "source": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_confirm.png"
+    },
+    {
+        "merged": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_close.png.flat",
+        "source": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\close.png"
+    },
+    {
+        "merged": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_icon.png.flat",
+        "source": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\src\\main\\res\\drawable-xxhdpi\\icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_close_black_24dp.png.flat",
+        "source": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_close_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\intermediates\\res\\merged\\debug\\drawable_cart.png.flat",
+        "source": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\src\\main\\res\\drawable\\cart.png"
+    },
+    {
+        "merged": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\intermediates\\res\\merged\\debug\\layout_nav_header_main.xml.flat",
+        "source": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\src\\main\\res\\layout\\nav_header_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_credit_card_select.png.flat",
+        "source": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_credit_card_select.png"
+    },
+    {
+        "merged": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_male.png.flat",
+        "source": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_male.png"
+    },
+    {
+        "merged": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_offer1.jpg.flat",
+        "source": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\src\\main\\res\\drawable-v24\\offer1.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_ecommerce.png.flat",
+        "source": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_ecommerce.png"
+    },
+    {
+        "merged": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_credit_card_unselect.png.flat",
+        "source": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_credit_card_unselect.png"
+    },
+    {
+        "merged": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bg_1.png.flat",
+        "source": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\src\\main\\res\\drawable\\bg_1.png"
+    },
+    {
+        "merged": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\intermediates\\res\\merged\\debug\\drawable_no_orders.png.flat",
+        "source": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\src\\main\\res\\drawable\\no_orders.png"
+    },
+    {
+        "merged": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_male.png.flat",
+        "source": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_male.png"
+    },
+    {
+        "merged": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_checkout.xml.flat",
+        "source": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\src\\main\\res\\layout\\activity_checkout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_placeholder_select.xml.flat",
+        "source": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_placeholder_select.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_left_arrow.png.flat",
+        "source": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_left_arrow.png"
+    },
+    {
+        "merged": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\intermediates\\res\\merged\\debug\\drawable_non_active_dot.xml.flat",
+        "source": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\src\\main\\res\\drawable\\non_active_dot.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_confirm_selected.png.flat",
+        "source": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_confirm_selected.png"
+    },
+    {
+        "merged": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_male.xml.flat",
+        "source": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_male.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_confirm_unselect.png.flat",
+        "source": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_confirm_unselect.png"
+    },
+    {
+        "merged": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_shopping_basket.png.flat",
+        "source": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_shopping_basket.png"
+    },
+    {
+        "merged": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\intermediates\\res\\merged\\debug\\drawable_visa.png.flat",
+        "source": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\src\\main\\res\\drawable\\visa.png"
+    },
+    {
+        "merged": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\intermediates\\res\\merged\\debug\\drawable_progress.xml.flat",
+        "source": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\src\\main\\res\\drawable\\progress.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_close.png.flat",
+        "source": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\close.png"
+    },
+    {
+        "merged": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_confirm.png.flat",
+        "source": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_confirm.png"
+    },
+    {
+        "merged": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_cart_clear.png.flat",
+        "source": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_cart_clear.png"
+    },
+    {
+        "merged": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\intermediates\\res\\merged\\debug\\drawable_logo.png.flat",
+        "source": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\src\\main\\res\\drawable\\logo.png"
+    },
+    {
+        "merged": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_grid.png.flat",
+        "source": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_grid.png"
+    },
+    {
+        "merged": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\intermediates\\res\\merged\\debug\\anim_left_out.xml.flat",
+        "source": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\src\\main\\res\\anim\\left_out.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\intermediates\\res\\merged\\debug\\drawable_arrow1.png.flat",
+        "source": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\src\\main\\res\\drawable\\arrow1.png"
+    },
+    {
+        "merged": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_pay_per_click.png.flat",
+        "source": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_pay_per_click.png"
+    },
+    {
+        "merged": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\intermediates\\res\\merged\\debug\\layout_spinnertextview.xml.flat",
+        "source": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\src\\main\\res\\layout\\spinnertextview.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_credit_card.png.flat",
+        "source": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_credit_card.png"
+    },
+    {
+        "merged": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_credit_card_unselect.png.flat",
+        "source": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_credit_card_unselect.png"
+    },
+    {
+        "merged": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_lettuce.xml.flat",
+        "source": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_lettuce.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_minus.png.flat",
+        "source": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_minus.png"
+    },
+    {
+        "merged": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_options.png.flat",
+        "source": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_options.png"
+    },
+    {
+        "merged": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\intermediates\\res\\merged\\debug\\anim_shake.xml.flat",
+        "source": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\src\\main\\res\\anim\\shake.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_product_view.xml.flat",
+        "source": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\src\\main\\res\\layout\\activity_product_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\intermediates\\res\\merged\\debug\\drawable_rect.xml.flat",
+        "source": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\src\\main\\res\\drawable\\rect.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_plus.png.flat",
+        "source": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_plus.png"
+    },
+    {
+        "merged": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_blank.xml.flat",
+        "source": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\src\\main\\res\\layout\\fragment_blank.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_clear_black_24dp.xml.flat",
+        "source": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_clear_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_arrow_back_black_24dp.png.flat",
+        "source": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_arrow_back_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_search_black_24dp.png.flat",
+        "source": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_search_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_placeholder_select.png.flat",
+        "source": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_placeholder_select.png"
+    },
+    {
+        "merged": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_coupon.png.flat",
+        "source": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_coupon.png"
+    },
+    {
+        "merged": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_credit_card.xml.flat",
+        "source": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_credit_card.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_listed_items.png.flat",
+        "source": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_listed_items.png"
+    },
+    {
+        "merged": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_placeholder.png.flat",
+        "source": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_placeholder.png"
+    },
+    {
+        "merged": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_clear_black_24dp.png.flat",
+        "source": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_clear_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_close_black_24dp.png.flat",
+        "source": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_close_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_credit_card.png.flat",
+        "source": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_credit_card.png"
+    },
+    {
+        "merged": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_coupon.xml.flat",
+        "source": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_coupon.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_placeholder.xml.flat",
+        "source": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_placeholder.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_coupon.png.flat",
+        "source": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_coupon.png"
+    },
+    {
+        "merged": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bg_ccv.xml.flat",
+        "source": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\src\\main\\res\\drawable\\bg_ccv.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_popular.xml.flat",
+        "source": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\src\\main\\res\\layout\\fragment_popular.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_product.xml.flat",
+        "source": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\src\\main\\res\\layout\\activity_product.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_shuffle.png.flat",
+        "source": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_shuffle.png"
+    },
+    {
+        "merged": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_shopping_basket.png.flat",
+        "source": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_shopping_basket.png"
+    },
+    {
+        "merged": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_shuffle.png.flat",
+        "source": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_shuffle.png"
+    },
+    {
+        "merged": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_placeholder_unselect.png.flat",
+        "source": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_placeholder_unselect.png"
+    },
+    {
+        "merged": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_shopping_cart_black_24dp.png.flat",
+        "source": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_shopping_cart_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\intermediates\\res\\merged\\debug\\layout_row_home_category.xml.flat",
+        "source": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\src\\main\\res\\layout\\row_home_category.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_goods.png.flat",
+        "source": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_goods.png"
+    },
+    {
+        "merged": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\intermediates\\res\\merged\\debug\\anim_slide_to_left.xml.flat",
+        "source": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\src\\main\\res\\anim\\slide_to_left.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_shopping_cart_black_24dp.xml.flat",
+        "source": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_shopping_cart_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_left_arrow.xml.flat",
+        "source": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_left_arrow.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_credit_card_unselect.png.flat",
+        "source": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_credit_card_unselect.png"
+    },
+    {
+        "merged": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\intermediates\\res\\merged\\debug\\layout_nav_footer_main.xml.flat",
+        "source": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\src\\main\\res\\layout\\nav_footer_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_placeholder.png.flat",
+        "source": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_placeholder.png"
+    },
+    {
+        "merged": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_cart_clear.png.flat",
+        "source": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_cart_clear.png"
+    },
+    {
+        "merged": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_shopping_cart_black_24dp.png.flat",
+        "source": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_shopping_cart_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\intermediates\\res\\merged\\debug\\anim_cycle.xml.flat",
+        "source": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\src\\main\\res\\anim\\cycle.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_placeholder_select.png.flat",
+        "source": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_placeholder_select.png"
+    },
+    {
+        "merged": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_minus.png.flat",
+        "source": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_minus.png"
+    },
+    {
+        "merged": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_minus.png.flat",
+        "source": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_minus.png"
+    },
+    {
+        "merged": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_goods.png.flat",
+        "source": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_goods.png"
+    },
+    {
+        "merged": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_coupon.png.flat",
+        "source": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_coupon.png"
+    },
+    {
+        "merged": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_credit_card_select.png.flat",
+        "source": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_credit_card_select.png"
+    },
+    {
+        "merged": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_credit_card_select.png.flat",
+        "source": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_credit_card_select.png"
+    },
+    {
+        "merged": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_home_slider.xml.flat",
+        "source": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\src\\main\\res\\layout\\item_home_slider.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_home.png.flat",
+        "source": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_home.png"
+    },
+    {
+        "merged": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\intermediates\\res\\merged\\debug\\drawable_button_checkout_bg.xml.flat",
+        "source": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\src\\main\\res\\drawable\\button_checkout_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_discount.png.flat",
+        "source": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_discount.png"
+    },
+    {
+        "merged": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_location.png.flat",
+        "source": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\src\\main\\res\\drawable-hdpi\\location.png"
+    },
+    {
+        "merged": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_pay_per_click.png.flat",
+        "source": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_pay_per_click.png"
+    },
+    {
+        "merged": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_ecommerce.xml.flat",
+        "source": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_ecommerce.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_left_arrow.png.flat",
+        "source": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_left_arrow.png"
+    },
+    {
+        "merged": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\intermediates\\res\\merged\\debug\\drawable_shop_button_bg.xml.flat",
+        "source": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\src\\main\\res\\drawable\\shop_button_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_cart_clear.png.flat",
+        "source": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_cart_clear.png"
+    },
+    {
+        "merged": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_slider4.jpg.flat",
+        "source": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\src\\main\\res\\drawable-v24\\slider4.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_clear_black_24dp.png.flat",
+        "source": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_clear_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_slider.xml.flat",
+        "source": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\src\\main\\res\\layout\\item_slider.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_lettuce.png.flat",
+        "source": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_lettuce.png"
+    },
+    {
+        "merged": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\intermediates\\res\\merged\\debug\\drawable_no_image.jpg.flat",
+        "source": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\src\\main\\res\\drawable\\no_image.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_goods.png.flat",
+        "source": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_goods.png"
+    },
+    {
+        "merged": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_listed_items.png.flat",
+        "source": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_listed_items.png"
+    },
+    {
+        "merged": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_arrow_back_black_24dp.png.flat",
+        "source": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_arrow_back_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_ecommerce.png.flat",
+        "source": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_ecommerce.png"
+    },
+    {
+        "merged": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\intermediates\\res\\merged\\debug\\layout_row_new_products.xml.flat",
+        "source": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\src\\main\\res\\layout\\row_new_products.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_confirm.xml.flat",
+        "source": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\src\\main\\res\\layout\\fragment_confirm.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_left_arrow.png.flat",
+        "source": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_left_arrow.png"
+    },
+    {
+        "merged": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_welcome.xml.flat",
+        "source": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\src\\main\\res\\layout\\activity_welcome.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_address.xml.flat",
+        "source": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\src\\main\\res\\layout\\fragment_address.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_ecommerce.png.flat",
+        "source": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_ecommerce.png"
+    },
+    {
+        "merged": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21_ic_menu_share.xml.flat",
+        "source": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\src\\main\\res\\drawable-v21\\ic_menu_share.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\intermediates\\res\\merged\\debug\\drawable_side_nav_bar.xml.flat",
+        "source": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\src\\main\\res\\drawable\\side_nav_bar.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_shopping_basket.png.flat",
+        "source": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_shopping_basket.png"
+    },
+    {
+        "merged": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_slider2.jpg.flat",
+        "source": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\src\\main\\res\\drawable-v24\\slider2.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_confirm_password.png.flat",
+        "source": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\src\\main\\res\\drawable-hdpi\\confirm_password.png"
+    },
+    {
+        "merged": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_options.png.flat",
+        "source": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_options.png"
+    },
+    {
+        "merged": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_confirm_selected.xml.flat",
+        "source": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_confirm_selected.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\intermediates\\res\\merged\\debug\\drawable_icon1.png.flat",
+        "source": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\src\\main\\res\\drawable\\icon1.png"
+    },
+    {
+        "merged": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v24_ic_cart_clear.xml.flat",
+        "source": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v24\\ic_cart_clear.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\intermediates\\res\\merged\\debug\\layout_row_search_products.xml.flat",
+        "source": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\src\\main\\res\\layout\\row_search_products.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_discount.xml.flat",
+        "source": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_discount.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_coupon.png.flat",
+        "source": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_coupon.png"
+    },
+    {
+        "merged": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_placeholder.png.flat",
+        "source": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_placeholder.png"
+    },
+    {
+        "merged": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_placeholder_unselect.png.flat",
+        "source": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_placeholder_unselect.png"
+    },
+    {
+        "merged": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_shopping_cart_black_24dp.png.flat",
+        "source": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_shopping_cart_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_placeholder_select.png.flat",
+        "source": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_placeholder_select.png"
+    },
+    {
+        "merged": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_shopping_basket.png.flat",
+        "source": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_shopping_basket.png"
+    },
+    {
+        "merged": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_clear_black_24dp.png.flat",
+        "source": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_clear_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\intermediates\\res\\merged\\debug\\layout_row_cart.xml.flat",
+        "source": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\src\\main\\res\\layout\\row_cart.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\intermediates\\res\\merged\\debug\\drawable_cauliflower.jpeg.flat",
+        "source": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\src\\main\\res\\drawable\\cauliflower.jpeg"
+    },
+    {
+        "merged": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_arrow_back_black_24dp.xml.flat",
+        "source": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_arrow_back_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\intermediates\\res\\merged\\debug\\layout_login_layout.xml.flat",
+        "source": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\src\\main\\res\\layout\\login_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_stars.png.flat",
+        "source": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_stars.png"
+    },
+    {
+        "merged": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_credit_card_select.png.flat",
+        "source": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_credit_card_select.png"
+    },
+    {
+        "merged": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_close.png.flat",
+        "source": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\close.png"
+    },
+    {
+        "merged": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_options.png.flat",
+        "source": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_options.png"
+    },
+    {
+        "merged": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_minus.png.flat",
+        "source": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_minus.png"
+    },
+    {
+        "merged": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_offer2.jpg.flat",
+        "source": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\src\\main\\res\\drawable-v24\\offer2.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_stars.xml.flat",
+        "source": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_stars.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_placeholder_unselect.png.flat",
+        "source": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_placeholder_unselect.png"
+    },
+    {
+        "merged": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_close.xml.flat",
+        "source": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\close.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_stars.png.flat",
+        "source": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_stars.png"
+    },
+    {
+        "merged": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_close.png.flat",
+        "source": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\close.png"
+    },
+    {
+        "merged": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\intermediates\\res\\merged\\debug\\layout_success_dialog.xml.flat",
+        "source": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\src\\main\\res\\layout\\success_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\intermediates\\res\\merged\\debug\\drawable_master.png.flat",
+        "source": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\src\\main\\res\\drawable\\master.png"
+    },
+    {
+        "merged": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\intermediates\\res\\merged\\debug\\layout_row_order.xml.flat",
+        "source": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\src\\main\\res\\layout\\row_order.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_arrow_back_black_24dp.png.flat",
+        "source": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_arrow_back_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_credit_card.png.flat",
+        "source": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_credit_card.png"
+    },
+    {
+        "merged": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21_ic_menu_gallery.xml.flat",
+        "source": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\src\\main\\res\\drawable-v21\\ic_menu_gallery.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_minus.xml.flat",
+        "source": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_minus.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_delete_black_24dp.png.flat",
+        "source": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_delete_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_clear_black_24dp.png.flat",
+        "source": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_clear_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_confirm.xml.flat",
+        "source": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_confirm.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_plus.png.flat",
+        "source": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_plus.png"
+    },
+    {
+        "merged": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_coupon.png.flat",
+        "source": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_coupon.png"
+    },
+    {
+        "merged": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_placeholder.png.flat",
+        "source": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_placeholder.png"
+    },
+    {
+        "merged": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_confirm.png.flat",
+        "source": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_confirm.png"
+    },
+    {
+        "merged": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21_ic_menu_send.xml.flat",
+        "source": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\src\\main\\res\\drawable-v21\\ic_menu_send.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_shuffle.png.flat",
+        "source": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_shuffle.png"
+    },
+    {
+        "merged": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_left_arrow.png.flat",
+        "source": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_left_arrow.png"
+    },
+    {
+        "merged": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_rounded_corner.xml.flat",
+        "source": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\src\\main\\res\\drawable-hdpi\\rounded_corner.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_delete_black_24dp.png.flat",
+        "source": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_delete_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\intermediates\\res\\merged\\debug\\layout_badge_icon_layout.xml.flat",
+        "source": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\src\\main\\res\\layout\\badge_icon_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_credit_card_unselect.png.flat",
+        "source": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_credit_card_unselect.png"
+    },
+    {
+        "merged": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\intermediates\\res\\merged\\debug\\drawable_gradient_bg.xml.flat",
+        "source": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\src\\main\\res\\drawable\\gradient_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_shuffle.png.flat",
+        "source": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_shuffle.png"
+    },
+    {
+        "merged": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_shopping_cart_black_24dp.png.flat",
+        "source": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_shopping_cart_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\intermediates\\res\\merged\\debug\\drawable_img.jpg.flat",
+        "source": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\src\\main\\res\\drawable\\img.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\intermediates\\res\\merged\\debug\\menu_cart_menu.xml.flat",
+        "source": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\src\\main\\res\\menu\\cart_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_credit_card_unselect.png.flat",
+        "source": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_credit_card_unselect.png"
+    },
+    {
+        "merged": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\intermediates\\res\\merged\\debug\\layout_content_main.xml.flat",
+        "source": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\src\\main\\res\\layout\\content_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\src\\main\\res\\drawable-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_search_black_24dp.png.flat",
+        "source": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_search_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_male.png.flat",
+        "source": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_male.png"
+    },
+    {
+        "merged": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\intermediates\\res\\merged\\debug\\drawable_arrow2.png.flat",
+        "source": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\src\\main\\res\\drawable\\arrow2.png"
+    },
+    {
+        "merged": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_list.png.flat",
+        "source": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_list.png"
+    },
+    {
+        "merged": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_cart.xml.flat",
+        "source": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\src\\main\\res\\layout\\activity_cart.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_list.png.flat",
+        "source": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_list.png"
+    },
+    {
+        "merged": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_stars.png.flat",
+        "source": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_stars.png"
+    },
+    {
+        "merged": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_arrow_back_black_24dp.png.flat",
+        "source": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_arrow_back_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\intermediates\\res\\merged\\debug\\layout_app_bar_main.xml.flat",
+        "source": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\src\\main\\res\\layout\\app_bar_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_listed_items.png.flat",
+        "source": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_listed_items.png"
+    },
+    {
+        "merged": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_home.png.flat",
+        "source": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_home.png"
+    },
+    {
+        "merged": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_credit_card_unselect.png.flat",
+        "source": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_credit_card_unselect.png"
+    },
+    {
+        "merged": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_list.xml.flat",
+        "source": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_home.xml.flat",
+        "source": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\src\\main\\res\\layout\\fragment_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_placeholder_unselect.png.flat",
+        "source": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_placeholder_unselect.png"
+    },
+    {
+        "merged": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_credit_card.png.flat",
+        "source": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_credit_card.png"
+    },
+    {
+        "merged": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_home.png.flat",
+        "source": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_home.png"
+    },
+    {
+        "merged": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\intermediates\\res\\merged\\debug\\layout_row_grid_products.xml.flat",
+        "source": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\src\\main\\res\\layout\\row_grid_products.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_stars.png.flat",
+        "source": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_stars.png"
+    },
+    {
+        "merged": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\intermediates\\res\\merged\\debug\\layout_row_popuular_products.xml.flat",
+        "source": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\src\\main\\res\\layout\\row_popuular_products.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_listed_items.png.flat",
+        "source": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_listed_items.png"
+    },
+    {
+        "merged": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bg_3.png.flat",
+        "source": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\src\\main\\res\\drawable\\bg_3.png"
+    },
+    {
+        "merged": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_grid.png.flat",
+        "source": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_grid.png"
+    },
+    {
+        "merged": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_placeholder.png.flat",
+        "source": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_placeholder.png"
+    },
+    {
+        "merged": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\intermediates\\res\\merged\\debug\\layout_row_popular_home_products.xml.flat",
+        "source": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\src\\main\\res\\layout\\row_popular_home_products.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\intermediates\\res\\merged\\debug\\drawable_graphe.jpeg.flat",
+        "source": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\src\\main\\res\\drawable\\graphe.jpeg"
+    },
+    {
+        "merged": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\src\\main\\res\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_confirm_unselect.png.flat",
+        "source": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_confirm_unselect.png"
+    },
+    {
+        "merged": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_confirm_unselect.png.flat",
+        "source": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_confirm_unselect.png"
+    },
+    {
+        "merged": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_options.png.flat",
+        "source": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_options.png"
+    },
+    {
+        "merged": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_pay_per_click.png.flat",
+        "source": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_pay_per_click.png"
+    },
+    {
+        "merged": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_grid.png.flat",
+        "source": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_grid.png"
+    },
+    {
+        "merged": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_clear_black_24dp.png.flat",
+        "source": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_clear_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bg_2.jpeg.flat",
+        "source": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\src\\main\\res\\drawable\\bg_2.jpeg"
+    },
+    {
+        "merged": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_placeholder_select.png.flat",
+        "source": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_placeholder_select.png"
+    },
+    {
+        "merged": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\intermediates\\res\\merged\\debug\\drawable_empty_cart_img.png.flat",
+        "source": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\src\\main\\res\\drawable\\empty_cart_img.png"
+    },
+    {
+        "merged": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\intermediates\\res\\merged\\debug\\drawable_text_selector.xml.flat",
+        "source": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\src\\main\\res\\drawable\\text_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_stars.png.flat",
+        "source": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_stars.png"
+    },
+    {
+        "merged": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_options.png.flat",
+        "source": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_options.png"
+    },
+    {
+        "merged": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_close_black_24dp.png.flat",
+        "source": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_close_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\intermediates\\res\\merged\\debug\\layout_progressbar.xml.flat",
+        "source": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\src\\main\\res\\layout\\progressbar.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\intermediates\\res\\merged\\debug\\drawable_cauliflower_rotate.jpeg.flat",
+        "source": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\src\\main\\res\\drawable\\cauliflower_rotate.jpeg"
+    },
+    {
+        "merged": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_plus.png.flat",
+        "source": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_plus.png"
+    },
+    {
+        "merged": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_search_black_24dp.png.flat",
+        "source": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_search_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_close_black_24dp.png.flat",
+        "source": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_close_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\intermediates\\res\\merged\\debug\\drawable_arrow.png.flat",
+        "source": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\src\\main\\res\\drawable\\arrow.png"
+    },
+    {
+        "merged": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_confirm_unselect.png.flat",
+        "source": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_confirm_unselect.png"
+    },
+    {
+        "merged": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\intermediates\\res\\merged\\debug\\layout_forgotpassword_layout.xml.flat",
+        "source": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\src\\main\\res\\layout\\forgotpassword_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_cart_clear.png.flat",
+        "source": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_cart_clear.png"
+    },
+    {
+        "merged": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_placeholder_unselect.png.flat",
+        "source": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_placeholder_unselect.png"
+    },
+    {
+        "merged": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_search_black_24dp.png.flat",
+        "source": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_search_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_clear_black_24dp.png.flat",
+        "source": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_clear_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_confirm_selected.png.flat",
+        "source": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_confirm_selected.png"
+    },
+    {
+        "merged": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\intermediates\\res\\merged\\debug\\drawable_icon3.png.flat",
+        "source": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\src\\main\\res\\drawable\\icon3.png"
+    },
+    {
+        "merged": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_delete_black_24dp.png.flat",
+        "source": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_delete_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_shopping_basket.png.flat",
+        "source": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_shopping_basket.png"
+    },
+    {
+        "merged": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_search_black_24dp.png.flat",
+        "source": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_search_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_delete_black_24dp.png.flat",
+        "source": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_delete_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_power_settings_new_black_24dp.png.flat",
+        "source": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_power_settings_new_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_shuffle.png.flat",
+        "source": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_shuffle.png"
+    },
+    {
+        "merged": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_grid.png.flat",
+        "source": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_grid.png"
+    },
+    {
+        "merged": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\intermediates\\res\\merged\\debug\\drawable_icon2.png.flat",
+        "source": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\src\\main\\res\\drawable\\icon2.png"
+    },
+    {
+        "merged": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bg_pay.xml.flat",
+        "source": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\src\\main\\res\\drawable\\bg_pay.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_home.png.flat",
+        "source": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_home.png"
+    },
+    {
+        "merged": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_ecommerce.png.flat",
+        "source": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_ecommerce.png"
+    },
+    {
+        "merged": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_offer3.jpg.flat",
+        "source": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\src\\main\\res\\drawable-v24\\offer3.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_pay_per_click.png.flat",
+        "source": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_pay_per_click.png"
+    },
+    {
+        "merged": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_confirm_selected.png.flat",
+        "source": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_confirm_selected.png"
+    },
+    {
+        "merged": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\intermediates\\res\\merged\\debug\\drawable_product_bg.xml.flat",
+        "source": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\src\\main\\res\\drawable\\product_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_cart_clear.png.flat",
+        "source": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_cart_clear.png"
+    },
+    {
+        "merged": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_password.png.flat",
+        "source": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\src\\main\\res\\drawable-hdpi\\password.png"
+    },
+    {
+        "merged": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_home.png.flat",
+        "source": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_home.png"
+    },
+    {
+        "merged": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_grid.png.flat",
+        "source": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_grid.png"
+    },
+    {
+        "merged": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_search_black_24dp.xml.flat",
+        "source": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_search_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_discount.png.flat",
+        "source": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_discount.png"
+    },
+    {
+        "merged": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_error.png.flat",
+        "source": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\src\\main\\res\\drawable-hdpi\\error.png"
+    },
+    {
+        "merged": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_male.png.flat",
+        "source": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_male.png"
+    },
+    {
+        "merged": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_options.png.flat",
+        "source": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_options.png"
+    },
+    {
+        "merged": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_discount.png.flat",
+        "source": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_discount.png"
+    },
+    {
+        "merged": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_goods.xml.flat",
+        "source": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_goods.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21_ic_menu_slideshow.xml.flat",
+        "source": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\src\\main\\res\\drawable-v21\\ic_menu_slideshow.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_arrow_back_black_24dp.png.flat",
+        "source": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_arrow_back_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\intermediates\\res\\merged\\debug\\anim_slide_to_right.xml.flat",
+        "source": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\src\\main\\res\\anim\\slide_to_right.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_plus.xml.flat",
+        "source": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_plus.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\intermediates\\res\\merged\\debug\\layout_row_products.xml.flat",
+        "source": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\src\\main\\res\\layout\\row_products.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\intermediates\\res\\merged\\debug\\drawable_loginbutton_selector.xml.flat",
+        "source": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\src\\main\\res\\drawable\\loginbutton_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_cart_clear.png.flat",
+        "source": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_cart_clear.png"
+    },
+    {
+        "merged": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\intermediates\\res\\merged\\debug\\layout_row_category.xml.flat",
+        "source": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\src\\main\\res\\layout\\row_category.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_lettuce.png.flat",
+        "source": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_lettuce.png"
+    },
+    {
+        "merged": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_shopping_cart_black_24dp.png.flat",
+        "source": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_shopping_cart_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\intermediates\\res\\merged\\debug\\anim_left_enter.xml.flat",
+        "source": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\src\\main\\res\\anim\\left_enter.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_offer.xml.flat",
+        "source": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\src\\main\\res\\layout\\fragment_offer.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_power_settings_new_black_24dp.xml.flat",
+        "source": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_power_settings_new_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\intermediates\\res\\merged\\debug\\menu_main.xml.flat",
+        "source": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_ecommerce.png.flat",
+        "source": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_ecommerce.png"
+    },
+    {
+        "merged": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_credit_card_select.png.flat",
+        "source": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_credit_card_select.png"
+    },
+    {
+        "merged": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_shuffle.xml.flat",
+        "source": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_shuffle.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\intermediates\\res\\merged\\debug\\anim_right_enter.xml.flat",
+        "source": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\src\\main\\res\\anim\\right_enter.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_goods.png.flat",
+        "source": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_goods.png"
+    },
+    {
+        "merged": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_credit_card_unselect.xml.flat",
+        "source": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_credit_card_unselect.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_goods.png.flat",
+        "source": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_goods.png"
+    },
+    {
+        "merged": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_slider1.jpg.flat",
+        "source": "C:\\Users\\Kunal\\Desktop\\GroceryStore-with-server\\app\\src\\main\\res\\drawable-v24\\slider1.jpg"
+    }
+]
