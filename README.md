@@ -1,7 +1,4 @@
-<a href="https://github.com/quintuslabs/GroceryStore"><img src="screen/logo.png" height="150px" width="150px" title="Grocery" alt="Grocery Store"></a>
-
-
-# GroceryStore
+# BigBasketClone
 Grocery App, is online shopping cart, geniune mobile application to which you can rely on. It guides you to formulate incredible mobile application. It comprise of 10+ screens with different features to navigate screens easily.
 Various different screens are assembled to  construct systematic structure. Moreover, Design and XML code file compose of various explicit comments that can help your client to construct application more effortlessly.
 Code used, as well as layers are well organized and are named precisely for the user to interpret properly. Code which is being used to model the application is composed of today's mobile trend. Moreover, one can get free icons, fonts and updates for user's assistance. Changing text, colours and graphics or placing photos will never be a big issue. You can do it with ease. Pixel perfect resolution gives perfect design, while customised elements assist in easy editing.
