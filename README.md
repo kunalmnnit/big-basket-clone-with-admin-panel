@@ -40,5 +40,5 @@ The screen contains more than 60 icons and most of all required elements require
 -App Token Authentication
 -For Api integration Please Contact us:- ksevkani495@gmail.com
 
-### AdminPanel access
-Contact:- <a href="https://kunalmnnit.github.io"> Kunal Sevkani </a>
+### AdminPanel Access
+Contact:- <a href="https://kunalmnnit.github.io">Kunal Sevkani</a>
